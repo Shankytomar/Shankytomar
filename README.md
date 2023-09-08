@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shankytomar
 - 👀 I’m interested in java development(Spring boot, Hibernate, Maven, JSP, rest APIs, full stack development).
-- 🌱 I’m currently Microservices.
+- 🌱 I’m currently learning Microservices.
 - 📫 How to reach me on Shankiitomar21035@gmail.com
 
 <!---
